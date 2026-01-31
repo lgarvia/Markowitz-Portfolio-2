@@ -1,0 +1,5 @@
+{
+  "name": "Markowitz Portfolio Visualizer",
+  "description": "An interactive educational tool to explain the Markowitz Portfolio Theory. Users can input stock tickers to generate estimated efficient frontiers and investment opportunity sets using Gemini-powered financial data simulations.",
+  "requestFramePermissions": []
+}
